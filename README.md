@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeffereiji
 - 👀 I’m interested ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🎵 I’m player Main Sona 
+- 💞️ I’m romantic and shy...(until u look intimidated with me)
 - 📫 How to reach me search my insta @Jefersonreis218
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like draw, i'm an artist
