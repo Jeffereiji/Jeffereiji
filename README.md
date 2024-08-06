@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeffereiji
-- 👀 I’m interested ...
+- 👀 I love my bf <3
 - 🎵 I’m player Main Sona 
 - 💞️ I’m romantic and shy...(until u look intimidated with me)
 - 📫 How to reach me search my insta @Jefersonreis218
