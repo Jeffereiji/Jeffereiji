@@ -9,13 +9,19 @@
 <img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/da63bd35-b799-4261-8d98-2b626e9fbcda" />
 
 
+<div align="center">
+ 
+<H3> Olá, me chamo Jefferson, sou de São Paulo, eu sou artista digital e tradicional, e estou cursando engenharia de software(2ºSemestre Atualmente)<br></H3>
+<a>Minhas principais ferramentas na parte tech e desenvolvimento de software é o VsCode, as linguagens atualmente são apenas Python, uso abstante HTML, CSS e JavaScript nos meus projetos, e no meu lado artístico minha principal ferramenta é o IbisPaintX, desenho tanto no Tradicional e Digital.</a>
+
+<div align="right">
+<img width="200" height="200"alt="image" src="https://github.com/user-attachments/assets/34c6aee2-9ece-4321-8022-7e6951d628f4" />
+  
+<a>Um dos meus projetos de tech art que participei foi no ensino médio onde fui responsável na produção de um jogo RPG eu era o Game Design, era responsável pela modelação dos personagens, concept art, cenários e skills, infelizmenten o projeto não foi adiante, mas tenho projeto dos personagens e rascunhos no meu ArtsTation. </a>
+<a>Saindo um pouco mais sobre as partes tecnicas e formais, eu gosto bastante de jogar(Genshin, Honkai, Mobile Legends, League of Legends), as vezes streamar os jogos que jogo na Twitch, assistir séries, animes e desenhar ao tempo livre, caso queira entrar em contato comigo, aqui embaixo estará minahs redes sociais! Espero que gostem do meu readme(enquanto vou o arrumando ainda skks).</a>
 
 
 
-
-
-
-<p> Olá, me chamo Jefferson, sou de São Paulo, eu sou artista digital e tradicional, e estou cursando engenharia de software, na minha carreira artistica, desenho desde criança, já fiz commissions, já fui responsável pela parte gráfico em um jogo RPG, já trabalhei com giz pastel oleoso e semi realismo, atualmente minha ferramenta de arte digital é o IBISPAINTX, </p>
 
 ######
 
