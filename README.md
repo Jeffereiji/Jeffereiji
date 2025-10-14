@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/f8d1eead-8d3c-4535-8442-e556580cd811" /> 
-<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/de3fb994-1a0a-4756-b4ec-0849e4f19e4e" />
-<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/d75a237e-54f8-4791-9624-17681b5232b8" />
-<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/da63bd35-b799-4261-8d98-2b626e9fbcda" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f8d1eead-8d3c-4535-8442-e556580cd811" /> 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/de3fb994-1a0a-4756-b4ec-0849e4f19e4e" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d75a237e-54f8-4791-9624-17681b5232b8" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/da63bd35-b799-4261-8d98-2b626e9fbcda" />
 
 ###
 <div align="center">
@@ -34,8 +34,6 @@ Um dos meus projetos de tech art que participei foi no ensino médio onde fui re
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fbeb34d1-7def-4748-b9ab-aaaea2ef19c1" />
 <a href=https://www.tiktok.com/@jeffersonreis218 style="text-decoration: none; outline: none; border: none;">
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/958fe5ec-d2c7-4094-b4a9-a20d3975fdcc" />
-<a href=https://discord.com/users/jeffreiji>
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/18b9afbc-99be-4b9a-be79-5906a9f7ab51" />
 
   
 </div>
