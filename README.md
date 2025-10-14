@@ -1,3 +1,11 @@
+
+<header align="center">
+<img shadow="30%" width="1733" height="224" alt="image" src="https://github.com/user-attachments/assets/cbf928d8-812a-4272-b26d-54b311ee2cb0" />
+
+
+
+
+
 <h1 align="center">Olá, sou Jefferson Reis!</h1>
 
 
