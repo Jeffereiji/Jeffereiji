@@ -42,6 +42,12 @@ Um dos meus projetos de tech art que participei foi no ensino médio onde fui re
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fbeb34d1-7def-4748-b9ab-aaaea2ef19c1" />
 <a href=https://www.tiktok.com/@jeffersonreis218 style="text-decoration: none; outline: none; border: none;">
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/958fe5ec-d2c7-4094-b4a9-a20d3975fdcc" />
+<a href=https://www.twitch.tv/jeffersonreiss  style="text-decoration: none; outline: none; border: none;">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/aaff4836-f324-4c86-8618-0c6fb7784a32" />
+
+
+
+
 
   
 </div>
