@@ -73,7 +73,8 @@ Um dos meus projetos de tech art que participei foi no ensino médio onde fui re
 
 
 
-
+![Visitantes](https://komarev.com/ghpvc/?username=Jeffereiji&color=blue&style=for-the-badge&label=Visitantes)
+[![Seguidores](https://img.shields.io/github/followers/Jeffereiji?style=for-the-badge&color=red&labelColor=gray)](https://github.com/udaykakade25)
 
 
   
