@@ -7,7 +7,7 @@
  
 
  <h1 align="center">    Jefferson Reis  ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h1>
- <h2 align="center">      Enginner Software | Front End | Digital Artist</h2>
+ <h2 align="center">      Software Enginner Student | Front End | Digital Artist</h2>
 
 
  <table border="0">
@@ -64,12 +64,12 @@
 ## Status ılıılıılıılıılı
 
 <p align="center">
-<img height="180px" src="https://github-readme-status.vercel.app/api/top-langs/?username=Jeffereiji&layout=compact&langs_count=7&theme=dracula" />
-<img height="180px" src="https://github-readme-status.vercel.app/api?username=Jeffereiji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffereiji&layout=compact&theme=dracula" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeffereiji&show_icons=true&theme=dracula" />
 </p>
 
 ## Me Siga nas Redes:
-<div>
+<p align="center">
 <a href= "jefersonreis218@gmail.com">
 <img src="image-11.png" width="50px" alt="E-mail"> 
 <a href="https://www.linkedlin.com/in/jeffereiss">
@@ -80,7 +80,7 @@
 <img src= "image-9.png" width="50px" alt="Twitch">
 <a href="tiktok.com/@jeffersonreis218">
 <img src= "image-8.png" width="50px" alt="TikTok>
-</div>
+ </p>
 
 
   
