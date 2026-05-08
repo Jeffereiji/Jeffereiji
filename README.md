@@ -4,12 +4,12 @@
  
  
  
- <center>
+ 
 
- #              Jefferson Reis  ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
- ##      Enginner Software | Front End | Digital Artist
+ <h1 align="center">    Jefferson Reis  ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h1>
+ <h2 align="center">      Enginner Software | Front End | Digital Artist</h2>
 
-</center>
+
  <table border="0">
  <tr>
     <td valign="top">
@@ -20,7 +20,7 @@
    Olá pessoa que está olhando meu readme! Bom logo me apresentando me chamo Jefferson, sou de SP e sou estudante de Engenharia de Software e Artista! Junto meus 2 mundos (criativo e lógico) e são ambas areas que busco conciliar nos meus projetos e trajetoria profissional. 
 
  </td>
-     <td width="300" valign="top">
+     <td width=350" valign="top">
  <img src="image-10.png" alt="sparxie" width="100%">
  </td>
  </tr>
