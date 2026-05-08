@@ -79,6 +79,7 @@
 
 ## Me Siga nas Redes:
 <p align="center">
+ 
 <a href= "jefersonreis218@gmail.com">
 <img src="image-11.png" width="50px" alt="E-mail"> 
 <a href="https://www.linkedlin.com/in/jeffereiss">
@@ -88,7 +89,8 @@
 <a href="https://www.twitch.tv/jeffersonreiss">
 <img src= "image-9.png" width="50px" alt="Twitch">
 <a href="tiktok.com/@jeffersonreis218">
-<img src= "image-8.png" width="50px" alt="TikTok>
+<img src= "image-8.png" width="50px" alt="TikTok">
+ 
  </p>
 
 
