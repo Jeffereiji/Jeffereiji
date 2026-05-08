@@ -64,8 +64,17 @@
 ## Status ılıılıılıılıılı
 
 <p align="center">
-<img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffereiji&layout=compact&theme=dracula" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeffereiji&show_icons=true&theme=dracula" />
+<img 
+  src="https://github-readme-stats-tau-pink-75.vercel.app/api?username=Jeffereiji&hide=contributions&show=reviews,prs_merged&show_icons=true&count_private=true&private_contributions=true&include_all_commits=true&theme=dracula" 
+  width="56%" 
+  alt="GitHub Stats - Isabel" 
+/>
+<img 
+  src="https://github-readme-stats-tau-pink-75.vercel.app/api/top-langs/?username=Jeffereiji&count_private=true&private_contributions=true&langs_count=6&layout=donut&theme=dracula" 
+  width="41.7%" 
+  alt="Top Languages - Jefferson" 
+/>
+ 
 </p>
 
 ## Me Siga nas Redes:
