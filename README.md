@@ -17,7 +17,7 @@
  # Sobre mim ๋࣭ ⭑⚝
 
  
-   Olá pessoa que está olhando meu readme! Bom logo me apresentando me chamo Jefferson, sou de SP e sou estudante de Engenharia de Software e Artista! Junto meus 2 mundos (criativo e lógico) e são ambas areas que busco conciliar nos meus projetos e trajetoria profissional. 
+   Olá pessoa que está olhando meu readme! Bom logo me apresentando me chamo Jefferson, sou de SP, estudante de Engenharia de Software e Artista! Junto meus 2 mundos (criativo e lógico) e são ambas áreas que busco conciliar nos meus projetos e trajetoria profissional. 
 
  </td>
      <td width=350" valign="top">
@@ -48,7 +48,7 @@
 </tr>
 </table>
 
- ## Algumas linguagens que utilizo nos projetos, ferramentas e design, tanto em software tanto na area de criativa 
+ ## Algumas linguagens que utilizo nos projetos, ferramentas e design, tanto em software tanto na area  criativa 
  
  <p align="center">
 <img src= "image.png" width="55px">
@@ -88,7 +88,7 @@
 <img src= "image-13.png" width="50px" alt="Instagram">
 <a href="https://www.twitch.tv/jeffersonreiss">
 <img src= "image-9.png" width="50px" alt="Twitch">
-<a href="tiktok.com/@jeffersonreis218">
+<a href="https://www.tiktok.com/@jeffersonreis218">
 <img src= "image-8.png" width="50px" alt="TikTok">
  
  </p>
