@@ -67,7 +67,7 @@
 <img 
   src="https://github-readme-stats-tau-pink-75.vercel.app/api?username=Jeffereiji&hide=contributions&show=reviews,prs_merged&show_icons=true&count_private=true&private_contributions=true&include_all_commits=true&theme=dracula" 
   width="56%" 
-  alt="GitHub Stats - Isabel" 
+  alt="GitHub Stats - Jefferson" 
 />
 <img 
   src="https://github-readme-stats-tau-pink-75.vercel.app/api/top-langs/?username=Jeffereiji&count_private=true&private_contributions=true&langs_count=6&layout=donut&theme=dracula" 
